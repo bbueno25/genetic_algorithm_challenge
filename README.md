@@ -1,4 +1,5 @@
-# genetic_algorithm_challenge
+# Genetic Algorithm Challenge
+
 Genetic Algorithm Challenge for Learn Python for Data Science #6 by @Sirajology on [Youtube](https://youtu.be/dSofAXnnFrY)
 
 Overview
